@@ -1,0 +1,13 @@
+{
+    "slug": "stadt-goettingen",
+    "relevant-countries": ["de"],
+    "categories": ["public body"],
+    "name": "Stadt Göttingen",
+    "address": "C. Ludwikowski\nKommunale Dienste Göttingen (KDG) kAoR\nPaulinerstraße 14\n37073 Göttingen",
+    "phone": "+49 551/384-4151",
+    "email": "dsb@goettingen.de",
+    "web": "https://goettingen.de",
+    "sources": ["https://www.goettingen.de/datenschutz.html"],
+    "request-language": "de",
+    "suggested-transport-medium": "email"
+}
